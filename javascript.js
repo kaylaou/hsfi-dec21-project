@@ -23,3 +23,7 @@ $("#info-button").click(function(){
     $('.all-content').hide();
     $('#info-content').show();
 });
+$("#proj-button").click(function(){
+    $('.all-content').hide();
+    $('#proj-content').show();
+});
